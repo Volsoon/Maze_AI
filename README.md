@@ -26,8 +26,8 @@ To deploy this project run
 
 ## Features
 
-- press s to save the model
-- press l to load the model
+- press S to save the model
+- press L to load the model
 
 
 ## Demo
