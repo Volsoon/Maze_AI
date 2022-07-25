@@ -32,5 +32,4 @@ To deploy this project run
 
 ## Demo
 
-Insert gif or link to demo
-
+https://github.com/Volsoon/Maze_AI/blob/93dd167cd507e80d8cb2112d3185d40909464723/demo_maze_ai.gif
