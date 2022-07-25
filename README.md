@@ -20,6 +20,7 @@ To deploy this project run
 ```bash
   cd Maze_AI
   pip3 install -r requirements.txt
+  python3 main.py
 ```
 
 
